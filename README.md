@@ -1,6 +1,7 @@
 # Eye Disease Detection using Deep Learning
 
 This project implements a deep learning-based system (ResNet 50) for detecting eye diseases from retinal fundus images. It utilizes Convolutional Neural Networks (CNNs) and other advanced techniques to automatically classify various eye conditions such as glaucoma, diabetic retinopathy, and cataract from retinal images.
+Note : This project is totally run and compiled in Jupyter Notebook
 
 ## 📘 Project Overview
 
@@ -20,6 +21,7 @@ Early and accurate diagnosis of eye diseases is crucial to prevent permanent vis
 - Deep Learning (CNN, ResNet50, etc.)
 - Tkinter (for GUI)
 - PDF generation libraries (e.g., ReportLab or FPDF)
+
 
 ## 📂 Dataset [download](https://www.kaggle.com/datasets/gunavenkatdoddi/eye-diseases-classification)
 
